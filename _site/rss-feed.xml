@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>James Reynolds&apos; web presence</title>
+		<description>Traffic and transport engineer, researcher and occasional musician</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome to this</title>
+				
+					<dc:creator>James Reynolds</dc:creator>
+				
+				
+					<description>&lt;p&gt;I need to put together a basic web presence to host some things on github pages.  This is it. Welcome.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/welcome-to-this</link>
+				<guid isPermaLink="true">http://localhost:4000/welcome-to-this</guid>
+			</item>
+		
+	</channel>
+</rss>
